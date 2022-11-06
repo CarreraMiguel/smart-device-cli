@@ -1,6 +1,6 @@
 # smart-device-cli
 
-### Homework
+### TODO
 
 - [ ] Add command `create`
 - [ ] Ask user for the fields of this new device
