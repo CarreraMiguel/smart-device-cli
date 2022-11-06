@@ -1,10 +1,9 @@
 package com.github.carreramiguel.smartdevicecli;
 
-import com.github.carreramiguel.smartdevicecli.model.SmartDevice;
-import com.github.carreramiguel.smartdevicecli.model.SmartPhone;
 import com.github.carreramiguel.smartdevicecli.util.Command;
 
-import static com.github.carreramiguel.smartdevicecli.util.ConsoleUtil.*;
+import static com.github.carreramiguel.smartdevicecli.util.ConsoleUtil.message;
+import static com.github.carreramiguel.smartdevicecli.util.ConsoleUtil.readString;
 
 public class SmartDeviceCLI {
 
