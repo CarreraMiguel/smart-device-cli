@@ -7,7 +7,7 @@ public class ConsoleUtil {
 
     private final static Scanner scanner = new Scanner(System.in);
 
-    public static void message(String message) {
+    public static void message(Object message) {
         System.out.println(message);
     }
 

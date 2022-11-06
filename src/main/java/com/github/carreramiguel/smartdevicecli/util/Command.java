@@ -13,6 +13,8 @@ public class Command {
             case "quit":
                 message("Bye!");
                 System.exit(0);
+            case "create":
+
             default:
                 message("Unknown command: '" + cmd + "'. Showing available commands.\n");
                 showHelpMessage();
